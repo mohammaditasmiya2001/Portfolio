@@ -10,7 +10,7 @@ export default function Projects() {
         <section className="pb-5 text-gray-600  bg-gray-900 body-font" id="project">
           <div className="container mx-auto">
             <div className="text-center mb-10">
-              <h1 className="sm:text-3xl text-2xl font-medium title-font text-white mb-2">
+              <h1 className="sm:text-3xl text-2xl pt-5  font-medium title-font text-white mb-2">
                 Projects
               </h1>
               <div className="flex mt-6 justify-center">
